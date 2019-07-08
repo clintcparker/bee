@@ -9,5 +9,6 @@
   "author": "clintcparker",
   "license": "ISC",
   "dependencies": {
+    "replace-in-file": "^4.1.1"
   }
 }
